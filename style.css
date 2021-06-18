@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(212, 171, 240);
+    font-family: 'Special Elite', cursive;
+}
+.header_div{
+    background-color: white;
+    color: rgb(97, 3, 219);
+}
+.header_div img{
+    width: 100px;
+    height: 100px;
+}
+ol{
+    font-size: 25;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
